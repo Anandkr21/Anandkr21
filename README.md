@@ -23,6 +23,8 @@
 - 📫 How to reach me **anandkumargupta.akg15@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
+  
+- 📑  Know about my experiences **[Resume](https://drive.google.com/file/d/1mQxgR3Yh4CLagX4NfToRocdzKH1c6Ob4/view?usp=share_link)**
 
 
 ## 🚀 Languages :
@@ -32,6 +34,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://brandeps.com/icon-download/E/Express-icon-vector-01.svg"/> </a> 
   
 </p>
 
