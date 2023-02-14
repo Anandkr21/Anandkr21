@@ -22,10 +22,9 @@
 
 - 📫 How to reach me **anandkumargupta.akg15@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
-  
 - 📑  Know about my experiences **[Resume](https://drive.google.com/file/d/1mQxgR3Yh4CLagX4NfToRocdzKH1c6Ob4/view?usp=share_link)**
 
+- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages :
 
