@@ -20,7 +20,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me **anandkumargupta.akg15@gmail.com**
+- 📫 How to reach me **[anandkumargupta.akg15@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)**
 
 - 📑  Know about my experiences **[Resume](https://drive.google.com/file/d/1mQxgR3Yh4CLagX4NfToRocdzKH1c6Ob4/view?usp=share_link)**
 
