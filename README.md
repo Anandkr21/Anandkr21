@@ -3,12 +3,12 @@
     <img src="https://komarev.com/ghpvc/?username=Anandkr21">
 </a>
 <a href="https://github.com/Anandkr21?tab=followers"><img src="https://img.shields.io/github/followers/Anandkr21?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- 
+![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif) -->
 
-![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
-
-<h1 align="center">Hi 👋, I'm Anand</h1>
+<h1 align="center">Hi 👋, I'm Anand Kumar</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
-<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611745b4649e65ad509de95aee8e787d2cb83bd5bec&rid=giphy.gif&ct=g" alt="">
+<img align="right" width="450" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611745b4649e65ad509de95aee8e787d2cb83bd5bec&rid=giphy.gif&ct=g" alt="">
 
 ## 🙋‍♂️ About Me
 
@@ -30,7 +30,7 @@
 
 - 📑  Know about my experiences **[Resume](https://drive.google.com/file/d/1mQxgR3Yh4CLagX4NfToRocdzKH1c6Ob4/view?usp=share_link)**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I love video games and traveling.**
 
 ## 🚀 Languages :
 
