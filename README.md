@@ -4,11 +4,11 @@
 </a>
 <a href="https://github.com/Anandkr21?tab=followers"><img src="https://img.shields.io/github/followers/Anandkr21?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" height="175px"/></a>
+![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anand</h1>
+<h1 align="center">Hi 👋, I'm Anand</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
-
+<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611745b4649e65ad509de95aee8e787d2cb83bd5bec&rid=giphy.gif&ct=g" alt="">
 
 ## 🙋‍♂️ About Me
 
@@ -18,9 +18,15 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
+- 👯 I've done 3 Individual and 1 Group Projects from scratch.
+1. **[Reliance Digital- Clone](https://verdant-cactus-906300.netlify.app/)**
+2. **[Cronometer.com- Clone](https://inspiring-kringle-7790ea.netlify.app/)**
+3. **[Covid Vaccination](https://dapper-selkie-f6efca.netlify.app/)**
+4. **[Columbia.com- Clone](https://vermillion-custard-ab0fef.netlify.app/)**  (Group Project)
+- 💬 Ask me about **Javascript, Nodejs, Express, MongoDB, HTML, CSS**
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me **[anandkumargupta.akg15@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)**
+- 📫 How to reach me **anandkumargupta.akg15@gmail.com**
 
 - 📑  Know about my experiences **[Resume](https://drive.google.com/file/d/1mQxgR3Yh4CLagX4NfToRocdzKH1c6Ob4/view?usp=share_link)**
 
@@ -39,6 +45,8 @@
 ## 🚀 Tools :
 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
 
 <br/>
 
