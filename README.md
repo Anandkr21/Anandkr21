@@ -23,29 +23,33 @@
 2. **[Cronometer.com- Clone](https://inspiring-kringle-7790ea.netlify.app/)**
 3. **[Covid Vaccination](https://dapper-selkie-f6efca.netlify.app/)**
 4. **[Columbia.com- Clone](https://vermillion-custard-ab0fef.netlify.app/)**  (Group Project)
-- 💬 Ask me about **Javascript, Nodejs, Express, MongoDB, HTML, CSS**
+- 💬 Ask me about **MongoDB, Express, Node.js, JavaScript, HTML, CSS**
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
 - 📫 How to reach me **anandkumargupta.akg15@gmail.com**
 
 - 📑  Know about my experiences **[Resume](https://drive.google.com/file/d/1mQxgR3Yh4CLagX4NfToRocdzKH1c6Ob4/view?usp=share_link)**
 
-- ⚡ Fun fact **I love video games and traveling.**
+- ⚡ Fun fact **I love Video Games and Travelling.**
 
 ## 🚀 Languages :
 
-<p align="left">  
+<img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,javascript,html,css"/>
+
+<!-- <p align="left">  
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> -->
   
 </p>
 
 ## 🚀 Tools :
+<img src="https://skillicons.dev/icons?i=postman,git,github,netlify,vscode,codepen,replit"/>
 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
+<!-- <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> -->
 
 
 <br/>
@@ -76,7 +80,6 @@
   </p>
 
 <!-- <a href="https://github.com/Anandkr21/github-readme-activity-graph"><img alt="Anand Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anandkr21&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-
 <br/>
 <br/>
 
