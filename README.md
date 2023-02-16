@@ -68,7 +68,14 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Anandkr21/github-readme-activity-graph"><img alt="Anand Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anandkr21&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <p align="center">
+    <a href="https://github.com/Anandkr21"><span>
+        <img align="center"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anandkr21&theme=github_dark" width="100%" />
+      </span></a>
+  </p>
+
+<!-- <a href="https://github.com/Anandkr21/github-readme-activity-graph"><img alt="Anand Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anandkr21&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
