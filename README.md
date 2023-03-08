@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **anandkumargupta.akg15@gmail.com**
 
-- 📑  Know about my experiences **[Resume](https://drive.google.com/file/d/1mQxgR3Yh4CLagX4NfToRocdzKH1c6Ob4/view?usp=share_link)**
+- 📑  Know about my experiences **[Resume](https://drive.google.com/file/d/1a9hfcuhwwD4b1Qh-R1AxUSpVU5bmw82k/view?usp=share_link)**
 
 - ⚡ Fun fact **I love Video Games and Travelling.**
 
