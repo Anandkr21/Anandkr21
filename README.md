@@ -6,7 +6,7 @@
 <!-- 
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif) -->
 
-<h1 align="center">Hi 👋, I'm Anand Kumar</h1>
+<h1 align="center">Hi 👋 I'm Anand Kumar</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 <img align="right" width="420" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611745b4649e65ad509de95aee8e787d2cb83bd5bec&rid=giphy.gif&ct=g" alt="">
 
