@@ -82,7 +82,7 @@
 <!-- <a href="https://github.com/Anandkr21/github-readme-activity-graph"><img alt="Anand Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anandkr21&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 <br/>
 <br/>
-
+<!-- 
 ## Connect with me:
 <p align="left">
 
@@ -92,5 +92,5 @@
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
-
+ -->
 
