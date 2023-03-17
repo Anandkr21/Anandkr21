@@ -1,7 +1,7 @@
 ## ❤ Views and Followers
-<a href="https://github.com/anandkr21/github-profile-views-counter">
+<!-- <a href="https://github.com/anandkr21/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Anandkr21">
-</a>
+</a> -->
 <a href="https://github.com/Anandkr21?tab=followers"><img src="https://img.shields.io/github/followers/Anandkr21?label=Followers&style=social" alt="GitHub Badge"></a>
 <!-- 
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif) -->
