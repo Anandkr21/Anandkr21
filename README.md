@@ -1,7 +1,7 @@
 ## ❤ Views and Followers
-<!-- <a href="https://github.com/anandkr21/github-profile-views-counter">
+<a href="https://github.com/anandkr21/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Anandkr21">
-</a> -->
+</a>
 <a href="https://github.com/Anandkr21?tab=followers"><img src="https://img.shields.io/github/followers/Anandkr21?label=Followers&style=social" alt="GitHub Badge"></a>
 <!-- 
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif) -->
@@ -27,7 +27,7 @@
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
 - 📫 How to reach me **anandkumargupta.akg15@gmail.com**
-- 👩‍💻 All of my Projects are available on my Portfolio [<a href="https://anandkr21.github.io/"/>]
+- 👩‍💻 All of my Projects are available on my Portfolio [<a href="https://Anandkr21.github.io/"/>]
 - 📑  Know about my experiences **[Resume](https://drive.google.com/file/d/1a9hfcuhwwD4b1Qh-R1AxUSpVU5bmw82k/view?usp=share_link)**
 
 - ⚡ Fun fact **I love Video Games and Travelling.**
