@@ -27,7 +27,7 @@
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
 - 📫 How to reach me **anandkumargupta.akg15@gmail.com**
-- 👩‍💻 All of my Projects are available on my Portfolio [https://Anandkr21.github.io/](https://Anandkr21.github.io/)
+- 👩‍💻 All of my Projects are available on my Portfolio ["https://Anandkr21.github.io/"]("https://Anandkr21.github.io/")
 - 📑  Know about my experiences **[Resume](https://drive.google.com/file/d/1a9hfcuhwwD4b1Qh-R1AxUSpVU5bmw82k/view?usp=share_link)**
 
 - ⚡ Fun fact **I love Video Games and Travelling.**
@@ -54,11 +54,11 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/Anandkr21/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anand Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anandkr21&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+</p> -->
 
 ## 📊 My Github Stats
 
