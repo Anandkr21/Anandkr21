@@ -25,7 +25,7 @@
 - 📫 How to reach me **anandkumargupta.akg15@gmail.com**
 - 👩‍💻 All of my Projects are available on my **[Portfolio](https://anandkr21.github.io/)**
 
-- 📑  Know about my experiences **[Resume](https://drive.google.com/file/d/1a9hfcuhwwD4b1Qh-R1AxUSpVU5bmw82k/view?usp=share_link)**
+- 📑  Know about my experiences **[Resume](https://drive.google.com/file/d/1Xr0EtXHM0ZXSNPtNY1F7g0Pn_p7t579D/view?usp=share_link)**
 
 - ⚡ Fun fact **I love Video Games and Travelling.**
 
