@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Developer**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👯 I've done 3 Individual and 1 Group Projects from scratch.
 1. **[Reliance Digital- Clone](https://verdant-cactus-906300.netlify.app/)**
