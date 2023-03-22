@@ -15,9 +15,9 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👯 I've done 3 Individual and 1 Group Projects from scratch.
-1. **[Reliance Digital- Clone](https://verdant-cactus-906300.netlify.app/)**
+1. **[Reliance Digital- Clone](https://thunderous-concha-290ec1.netlify.app/)**
 2. **[Cronometer.com- Clone](https://inspiring-kringle-7790ea.netlify.app/)**
-3. **[Covid Vaccination](https://dapper-selkie-f6efca.netlify.app/)**
+3. **[Covid Vaccination](https://stalwart-tapioca-a93bc5.netlify.app/)**
 4. **[Columbia.com- Clone](https://vermillion-custard-ab0fef.netlify.app/)**  (Group Project)
 - 💬 Ask me about **MongoDB, Express, Node.js, JavaScript, HTML, CSS**
 
