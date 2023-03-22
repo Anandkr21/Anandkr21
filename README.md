@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Full Stack Web Developer**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -29,12 +29,11 @@
 
 - ⚡ Fun fact **I love Video Games and Travelling.**
 
-## 🚀 Languages :
+## 🚀 Languages I Know :
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mongodb,redis,aws,jwt"/>
 
-<img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,javascript,html,css"/>
-
-## 🚀 Tools :
-<img src="https://skillicons.dev/icons?i=postman,git,github,netlify,vscode,codepen,replit"/>
+## 🚀 Tools & Software I use :
+<img src="https://skillicons.dev/icons?i=vscode,github,postman,git,netlify,codepen,replit"/>
 
 
 
@@ -45,6 +44,7 @@
 ## 📊 My Github Stats :
 
   <br/>
+  
   <p align="center">
   <a href="https://github.com/Anandkr21/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anand Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anandkr21&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -53,12 +53,6 @@
     <a href="https://github.com/Anandkr21/github-readme-stats"><img alt="Anand Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandkr21&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
 </p>
 
-<p align="center">
- 
- </p>
- <p align="right">
-  
-  </p>
  <br/>
 <br/>
 <br/>
@@ -79,6 +73,5 @@
 <a href = "https://www.linkedin.com/in/anand-kumar-akg7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
