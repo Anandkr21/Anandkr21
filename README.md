@@ -40,19 +40,22 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/Anandkr21/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anand Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anandkr21&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+
 
 ## 📊 My Github Stats :
 
   <br/>
+  <p align="center">
+  <a href="https://github.com/Anandkr21/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anand Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anandkr21&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+<p align="center">
  <a href="https://github.com/Anandkr21/github-readme-stats"><img alt="Anand Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anandkr21&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- 
+ </p>
+ <p align="center">
   <a href="https://github.com/Anandkr21/github-readme-stats"><img alt="Anand Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandkr21&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
-  
+  </p>
  <br/>
 <br/>
 <br/>
