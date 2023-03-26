@@ -29,7 +29,7 @@
 
 - ⚡ Fun fact **I love Video Games and Travelling.**
 
-## 🚀 Languages I Know :
+## 🚀 Tech Stack I know :
 <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mongodb,redis,aws,jwt"/>
 
 ## 🚀 Tools & Software I use :
