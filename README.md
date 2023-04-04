@@ -30,7 +30,7 @@
 - ⚡ Fun fact **I love Video Games and Travelling.**
 
 ## 🚀 Tech Stack I know :
-<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mongodb,redis,aws,jwt"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mongodb,redis,aws,sql"/>
 
 ## 🚀 Tools & Software I use :
 <img src="https://skillicons.dev/icons?i=vscode,github,postman,git,netlify,codepen,replit"/>
