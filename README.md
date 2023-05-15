@@ -19,6 +19,11 @@
 2. **[Cronometer.com- Clone](https://inspiring-kringle-7790ea.netlify.app/)**
 3. **[Covid Vaccination](https://graceful-pie-7f2ccf.netlify.app/)**
 4. **[Columbia.com- Clone](https://vermillion-custard-ab0fef.netlify.app/)**  (Group Project)
+5. **[Beauty Bebo- Clone](https://stalwart-sunburst-41190b.netlify.app/)** 
+6. **[Tic-Tac-Toe Game](https://tic-tae-toe-project.netlify.app/)**  (Group Project)
+7. **[Better Call Saul](https://frontendbcs.vercel.app/)** (Group Project)
+
+
 - 💬 Ask me about **MongoDB, Express, Node.js, JavaScript, HTML, CSS**
 
 
