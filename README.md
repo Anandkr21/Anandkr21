@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👯 I've done 3 Individual and 1 Group Projects from scratch.
+- 👯 I've done 4 Individual and 3 Group Projects from scratch.
 1. **[Reliance Digital- Clone](https://thunderous-concha-290ec1.netlify.app/)**
 2. **[Cronometer.com- Clone](https://inspiring-kringle-7790ea.netlify.app/)**
 3. **[Covid Vaccination](https://graceful-pie-7f2ccf.netlify.app/)**
@@ -30,7 +30,7 @@
 - 📫 How to reach me **anandkumargupta.akg15@gmail.com**
 - 👩‍💻 All of my Projects are available on my **[Portfolio](https://anandkr21.github.io/)**
 
-- 📑  Know about my experiences **[Resume](https://drive.google.com/file/d/1Xr0EtXHM0ZXSNPtNY1F7g0Pn_p7t579D/view?usp=share_link)**
+- 📑  Know about my experiences **[Resume](https://drive.google.com/file/d/1Gj7TfAx-mEdUeijhJLglUw48RA89L0pb/view?usp=share_link)**
 
 - ⚡ Fun fact **I love Video Games and Travelling.**
 
