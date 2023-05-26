@@ -15,13 +15,14 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👯 I've done 4 Individual and 3 Group Projects from scratch.
-1. **[Reliance Digital- Clone](https://thunderous-concha-290ec1.netlify.app/)**
-2. **[Cronometer.com- Clone](https://inspiring-kringle-7790ea.netlify.app/)**
-3. **[Covid Vaccination](https://graceful-pie-7f2ccf.netlify.app/)**
+
+1. **[Better Call Saul](https://frontendbcs.vercel.app/)** (Group Project)
+2. **[Tic-Tac-Toe Game](https://tic-tae-toe-project.netlify.app/)**  (Group Project)
+3. **[Columbia.com- Clone](https://vermillion-custard-ab0fef.netlify.app/)**  (Group Project)
 4. **[Beauty Bebo- Clone](https://stalwart-sunburst-41190b.netlify.app/)**
-5. **[Columbia.com- Clone](https://vermillion-custard-ab0fef.netlify.app/)**  (Group Project)
-6. **[Tic-Tac-Toe Game](https://tic-tae-toe-project.netlify.app/)**  (Group Project)
-7. **[Better Call Saul](https://frontendbcs.vercel.app/)** (Group Project)
+5. **[Reliance Digital- Clone](https://thunderous-concha-290ec1.netlify.app/)**
+6. **[Covid Vaccination](https://graceful-pie-7f2ccf.netlify.app/)**
+7. **[Cronometer.com- Clone](https://inspiring-kringle-7790ea.netlify.app/)** 
 
 
 - 💬 Ask me about **MongoDB, Express, Node.js, JavaScript, HTML, CSS**
