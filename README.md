@@ -29,7 +29,7 @@
 
 
 - 📫 How to reach me **anandkumargupta.akg15@gmail.com**
-- 👩‍💻 All of my Projects are available on my **[Portfolio](https://anandkr21.github.io/)**
+- 👩‍💻 All of my Projects are available on my 👉 **[Portfolio](https://anandkr21.github.io/)**
 
 - 📑  Know about my experiences 👉 **[Resume](https://drive.google.com/file/d/1pwbOUlVeM3_wiAOAy5MsfNwqotD_CFr6/view?usp=sharing)**
 
