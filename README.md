@@ -83,6 +83,6 @@
 
 <a href = "https://www.linkedin.com/in/anand-kumar-akg7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://instagram.com/a_k_is_okay?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
